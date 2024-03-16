@@ -1,5 +1,6 @@
 project:
   type: testproject
+  pre-render: copy-extension.ts
 
 website:
   navbar:
